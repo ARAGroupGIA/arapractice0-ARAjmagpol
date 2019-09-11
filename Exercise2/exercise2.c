@@ -5,11 +5,14 @@ void main(){
 		int A;
 		int B;
 		int C;
+		int D;
 		printf("Give me the A value:");
 		scanf("%d", &A);
 		printf("Give me the B value:");
 		scanf("%d",&B);
-		C=A+B;
+		printf("Give me the C value:");
+		scanf("%d",&D);
+		C=A+B+D;
 		printf("The result is: %d",C);
 		
 }
