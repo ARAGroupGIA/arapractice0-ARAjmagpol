@@ -6,13 +6,7 @@
 #include <stdio.h>
 
 void main(){
-	int A,B,C;
-	printf ("Give me the A value");
-	scanf("%d", &A);
-	printf ("Give me the B value");
-	scanf("%d", &A);
-	C= A+B;
-	printf("Result: %d", C);
+printf("Hello World Version 2");
 
 
 	/* Here, you must write the source code to show the missatge "Hello world" on screen*/
